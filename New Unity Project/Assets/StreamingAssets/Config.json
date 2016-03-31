@@ -1,0 +1,22 @@
+{
+    "m_TimeOut": 30.0,
+    "m_MaxRestConnections": 5,
+    "m_EnableGateway": false,
+    "m_GatewayURL": "",
+    "m_ProductKey": null,
+    "m_Credentials": [
+        {
+            "m_ServiceID": "NlcV1",
+            "m_URL": "https://gateway.watsonplatform.net/natural-language-classifier/api",
+            "m_User": "6d400555-1a2e-4d1d-8cac-7ae79e2301fb",
+            "m_Password": "fHnQws9tKUJW"
+        },
+        {
+            "m_ServiceID": "SpeechToTextV1",
+            "m_URL": "https://stream.watsonplatform.net/speech-to-text/api",
+            "m_User": "683be89e-fced-4495-9429-55ab97413c91",
+            "m_Password": "tu9MWgJDXKio"
+        }
+    ],
+    "m_Variables": []
+}
